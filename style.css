@@ -33,13 +33,17 @@ body {
     color: aliceblue;
     text-align: center;
     margin-top: 80px;
+    font-size: 30px;
+
  }
 
  #primo-paragrafo {
     color:aliceblue;
     text-align: center;
     font-family: Arial;
-    margin: 50px;
+    margin-top: 70px;
+     margin-left: 19%; 
+    margin-right: 19%;
  }
 
  #windows {
@@ -51,6 +55,7 @@ body {
     background-color: aliceblue;
     padding: 15px;
     margin-left: 20%; 
+    margin-top:15px;
   
  }
 
@@ -76,10 +81,10 @@ body {
  }
 
  .sfondo {
-    background-image: url(./img/background.png);
-    background-repeat: no-repeat;
-    background-size: 512px 1000px;
-       border-radius: 40px; 
+   background-image: url(./img/background.png);
+   background-repeat: no-repeat;
+   background-size: 512px 1000px;
+   border-radius: 40px; 
    margin-top: 15px;
    margin-left: 20px; 
    margin-right: 20px;
@@ -92,4 +97,35 @@ body {
    color: gray;
  }
 
- 
+
+ .parole-grandi{
+   font-family:"Permanent Marker", cursive;
+    font-style:normal;
+    font-weight: bold;
+    line-height: .85143;
+    color: aliceblue;
+    text-align:left;
+    margin-top: 80px;
+    font-size: 30px;
+    margin-top: 60px;
+    padding-left: 50px ;
+    padding-top:60px;
+
+ }
+
+  .altri-paragrafi {
+    color:aliceblue;
+    text-align: left;
+    font-family: Arial;
+    padding-top: 30px;
+    padding-left: 50px; 
+    padding-right: 50px;
+ }
+
+ .video {
+    border-radius: 40px; 
+    margin-top: 15px ;
+    margin-left: 35px ;
+    padding: 30px;
+
+ }
