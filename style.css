@@ -125,9 +125,17 @@ body {
     margin-top: 15px ;
     margin-left: 25px ;
     padding: 30px;
+    width: 400px;
+    height: 300px;
 
 }
  .icona-alta {
    width: 100px;
-   translate: 173px -50px ;
+   translate: 173px -50px ; 
+   /*
+   position: absolute;
+   top:-20px;
+   left:50%;
+   translate: -50% 0;
+   */
 }
