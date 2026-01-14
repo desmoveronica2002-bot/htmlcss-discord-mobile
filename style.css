@@ -28,7 +28,7 @@ body {
    font-family: "Sigmar", sans-serif;
     font-style:normal;
     font-weight: bold;
-    line-height: .9900;
+    line-height: .9900; /* potevo usare margin: 1rem 0;*/
     color: aliceblue;
     text-align: center;
     margin-top: 80px;
@@ -40,7 +40,7 @@ body {
     color:aliceblue;
     text-align: center;
     margin-top: 15px;
-    margin-left: 19%; 
+    margin-left: 18%; 
     margin-right: 19%;
     font-family: 'DM Sans';
 }
@@ -103,7 +103,7 @@ body {
    font-family: "Sigmar", sans-serif;
    font-style:normal;
    font-weight: bold;
-   line-height: .9900;
+   line-height: .9900; 
    color: aliceblue;
    text-align:left;
    font-size: 30px;
